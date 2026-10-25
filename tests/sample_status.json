@@ -1,0 +1,368 @@
+{
+ "last_updated": 1792904844,
+ "ttl": 2,
+ "data": {
+  "stations": [
+   {
+    "station_id": "7000",
+    "num_bikes_available": 19,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 17,
+     "ebike": 2
+    },
+    "num_docks_available": 27,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904738,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7001",
+    "num_bikes_available": 8,
+    "num_bikes_disabled": 4,
+    "is_charging_station": true,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 4,
+     "ebike": 4
+    },
+    "num_docks_available": 12,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904805,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7002",
+    "num_bikes_available": 1,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 1,
+     "ebike": 0
+    },
+    "num_docks_available": 18,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904774,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7003",
+    "num_bikes_available": 0,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 0,
+     "ebike": 0
+    },
+    "num_docks_available": 14,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904781,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7004",
+    "num_bikes_available": 1,
+    "num_bikes_disabled": 7,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 1,
+     "ebike": 0
+    },
+    "num_docks_available": 27,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904818,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7005",
+    "num_bikes_available": 10,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 10,
+     "ebike": 0
+    },
+    "num_docks_available": 12,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904754,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7006",
+    "num_bikes_available": 0,
+    "num_bikes_disabled": 2,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 0,
+     "ebike": 0
+    },
+    "num_docks_available": 29,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904723,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7007",
+    "num_bikes_available": 5,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 5,
+     "ebike": 0
+    },
+    "num_docks_available": 13,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904816,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7008",
+    "num_bikes_available": 1,
+    "num_bikes_disabled": 3,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 1,
+     "ebike": 0
+    },
+    "num_docks_available": 15,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904761,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7010",
+    "num_bikes_available": 16,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 16,
+     "ebike": 0
+    },
+    "num_docks_available": 3,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904781,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7013",
+    "num_bikes_available": 19,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 19,
+     "ebike": 0
+    },
+    "num_docks_available": 0,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904777,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7014",
+    "num_bikes_available": 10,
+    "num_bikes_disabled": 2,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 9,
+     "ebike": 1
+    },
+    "num_docks_available": 3,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904762,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7015",
+    "num_bikes_available": 23,
+    "num_bikes_disabled": 3,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 23,
+     "ebike": 0
+    },
+    "num_docks_available": 13,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904809,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7016",
+    "num_bikes_available": 32,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 32,
+     "ebike": 0
+    },
+    "num_docks_available": 2,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904720,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7017",
+    "num_bikes_available": 3,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 3,
+     "ebike": 0
+    },
+    "num_docks_available": 7,
+    "num_docks_disabled": 1,
+    "last_reported": 1792904724,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7018",
+    "num_bikes_available": 7,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 5,
+     "ebike": 2
+    },
+    "num_docks_available": 41,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904744,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7019",
+    "num_bikes_available": 20,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 20,
+     "ebike": 0
+    },
+    "num_docks_available": 35,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904831,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7020",
+    "num_bikes_available": 31,
+    "num_bikes_disabled": 0,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 31,
+     "ebike": 0
+    },
+    "num_docks_available": 2,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904806,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7021",
+    "num_bikes_available": 42,
+    "num_bikes_disabled": 2,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 42,
+     "ebike": 0
+    },
+    "num_docks_available": 19,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904802,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   },
+   {
+    "station_id": "7023",
+    "num_bikes_available": 4,
+    "num_bikes_disabled": 1,
+    "is_charging_station": false,
+    "status": "IN_SERVICE",
+    "traffic": null,
+    "num_bikes_available_types": {
+     "mechanical": 0,
+     "ebike": 4
+    },
+    "num_docks_available": 6,
+    "num_docks_disabled": 0,
+    "last_reported": 1792904843,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1
+   }
+  ]
+ }
+}

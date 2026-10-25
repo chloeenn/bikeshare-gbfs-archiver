@@ -1,0 +1,557 @@
+{
+ "last_updated": 1792904843,
+ "ttl": 1,
+ "data": {
+  "stations": [
+   {
+    "station_id": "7000",
+    "external_id": "f8aa7900-e9c7-11ef-984e-124c66246c7d",
+    "name": "Fort York  Blvd / Capreol Ct",
+    "physical_configuration": "REGULAR",
+    "lat": 43.63970679931218,
+    "lon": -79.39614309573555,
+    "altitude": 0.0,
+    "address": "Fort York  Blvd / Capreol Ct",
+    "capacity": 47,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Fort York - Entertainment District"
+    ],
+    "obcn": "647-643-9607",
+    "short_name": "647-643-9607",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7001",
+    "external_id": "f8aaeb6e-e9c7-11ef-984e-124c66246c7d",
+    "name": "Wellesley Station Green P",
+    "physical_configuration": "ELECTRICBIKESTATION",
+    "lat": 43.66496415990742,
+    "lon": -79.38355031526893,
+    "altitude": null,
+    "address": "Yonge / Wellesley",
+    "post_code": "M4Y 1G7",
+    "capacity": 23,
+    "is_charging_station": true,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "E-Charging ",
+     "South",
+     "Church Wellesley / Yorkville"
+    ],
+    "obcn": "416-617-9576",
+    "short_name": "416-617-9576",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7002",
+    "external_id": "f8aaef03-e9c7-11ef-984e-124c66246c7d",
+    "name": "St. George St / Bloor St W",
+    "physical_configuration": "REGULAR",
+    "lat": 43.66713121831853,
+    "lon": -79.3995550638237,
+    "altitude": null,
+    "address": "St. George St / Bloor St W",
+    "capacity": 19,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "U of T - Hospital Row"
+    ],
+    "obcn": "647-643-9615",
+    "short_name": "647-643-9615",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7003",
+    "external_id": "f8ab20ac-e9c7-11ef-984e-124c66246c7d",
+    "name": "Madison Ave / Bloor St W",
+    "physical_configuration": "REGULAR",
+    "lat": 43.66701830465472,
+    "lon": -79.4027958687172,
+    "altitude": null,
+    "address": "Madison Ave / Bloor St W",
+    "capacity": 15,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Bloor St W / Annex"
+    ],
+    "obcn": "647-631-4587",
+    "short_name": "647-631-4587",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7004",
+    "external_id": "f8ab24fe-e9c7-11ef-984e-124c66246c7d",
+    "name": "University Ave / Elm St",
+    "physical_configuration": "VAULT",
+    "lat": 43.656499,
+    "lon": -79.389362,
+    "altitude": 0.0,
+    "address": "University Ave / Elm St",
+    "capacity": 35,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "phone"
+    ],
+    "groups": [
+     "P7004-7047"
+    ],
+    "obcn": "647-643-9673",
+    "short_name": "647-643-9673",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7005",
+    "external_id": "f8ab51f8-e9c7-11ef-984e-124c66246c7d",
+    "name": "King St W / York St",
+    "physical_configuration": "VAULT",
+    "lat": 43.6480008,
+    "lon": -79.383177,
+    "altitude": 0.0,
+    "address": "King St W / York St",
+    "capacity": 23,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Financial District"
+    ],
+    "obcn": "647-643-9693",
+    "short_name": "647-643-9693",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7006",
+    "external_id": "f8ab54c0-e9c7-11ef-984e-124c66246c7d",
+    "name": "Bay St / College St (East Side)",
+    "physical_configuration": "REGULAR",
+    "lat": 43.660439,
+    "lon": -79.385525,
+    "altitude": null,
+    "address": "Bay St / College St (East Side)",
+    "capacity": 31,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "is_valet_station": false,
+    "groups": [
+     "South",
+     "U of T - Hospital Row"
+    ],
+    "obcn": "416-569-2349",
+    "short_name": "416-569-2349",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7007",
+    "external_id": "f8ab576d-e9c7-11ef-984e-124c66246c7d",
+    "name": "College St / Huron St",
+    "physical_configuration": "REGULAR",
+    "lat": 43.658148,
+    "lon": -79.398167,
+    "altitude": null,
+    "address": "College St / Huron St",
+    "capacity": 19,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "U of T - Hospital Row"
+    ],
+    "obcn": "647-625-3582",
+    "short_name": "647-625-3582",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7008",
+    "external_id": "f8ab5a3f-e9c7-11ef-984e-124c66246c7d",
+    "name": "Wellesley St W / Queen's Park Cres",
+    "physical_configuration": "REGULAR",
+    "lat": 43.663376,
+    "lon": -79.392125,
+    "altitude": null,
+    "address": "Wellesley St W / Queen's Park Cres",
+    "capacity": 19,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "U of T - Hospital Row"
+    ],
+    "obcn": "647-643-9648",
+    "short_name": "647-643-9648",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7010",
+    "external_id": "f8ab5fcc-e9c7-11ef-984e-124c66246c7d",
+    "name": "King St W / Spadina Ave",
+    "physical_configuration": "REGULAR",
+    "lat": 43.64514249449372,
+    "lon": -79.39510358283808,
+    "altitude": null,
+    "address": "King St W / Spadina Ave",
+    "capacity": 19,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Fort York - Entertainment District"
+    ],
+    "obcn": "647-202-6537",
+    "short_name": "647-202-6537",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7013",
+    "external_id": "f8ab675c-e9c7-11ef-984e-124c66246c7d",
+    "name": "Scott St / The Esplanade",
+    "physical_configuration": "REGULAR",
+    "lat": 43.64659663170443,
+    "lon": -79.37530913867988,
+    "altitude": 0.0,
+    "address": "Scott St / The Esplanade",
+    "post_code": "M5E 1Z4",
+    "capacity": 19,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Financial District"
+    ],
+    "obcn": "416-666-6440",
+    "short_name": "416-666-6440",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7014",
+    "external_id": "f8ab69cf-e9c7-11ef-984e-124c66246c7d",
+    "name": "Sherbourne St / Carlton St (Allan Gardens)",
+    "physical_configuration": "REGULAR",
+    "lat": 43.663102,
+    "lon": -79.373181,
+    "altitude": null,
+    "address": "Sherbourne St / Carlton St (Allan Gardens)",
+    "capacity": 15,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "East",
+     "Church Wellesley / Yorkville"
+    ],
+    "obcn": "416-710-6764",
+    "short_name": "416-710-6764",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7015",
+    "external_id": "f8ab6c2a-e9c7-11ef-984e-124c66246c7d",
+    "name": "King St W / Bay St (West Side)",
+    "physical_configuration": "REGULAR",
+    "lat": 43.64852,
+    "lon": -79.380576,
+    "altitude": null,
+    "address": "King St W / Bay St (West Side)",
+    "capacity": 39,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "is_valet_station": false,
+    "groups": [
+     "Valet Stations",
+     "South",
+     "Financial District"
+    ],
+    "obcn": "416-671-7595",
+    "short_name": "416-671-7595",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7016",
+    "external_id": "f8ab6eb0-e9c7-11ef-984e-124c66246c7d",
+    "name": "Bay St / Queens Quay W (Ferry Terminal)",
+    "physical_configuration": "REGULAR",
+    "lat": 43.640978,
+    "lon": -79.376785,
+    "altitude": null,
+    "address": "Bay St / Queens Quay W (Ferry Terminal)",
+    "post_code": "M5J",
+    "capacity": 35,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "is_valet_station": false,
+    "groups": [
+     "South",
+     "Watefront"
+    ],
+    "obcn": "647-271-1378",
+    "short_name": "647-271-1378",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7017",
+    "external_id": "f8ab715f-e9c7-11ef-984e-124c66246c7d",
+    "name": "Widmer St / Adelaide St W",
+    "physical_configuration": "SMARTMAPFRAME",
+    "lat": 43.647547634759206,
+    "lon": -79.39155200496292,
+    "altitude": 0.0,
+    "address": "Widmer St / Adelaide St W",
+    "post_code": "M5V 1J9",
+    "capacity": 11,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Fort York - Entertainment District"
+    ],
+    "obcn": "647-631-9958",
+    "short_name": "647-631-9958",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7018",
+    "external_id": "f8ab73f6-e9c7-11ef-984e-124c66246c7d",
+    "name": "Bremner Blvd / Rees St",
+    "physical_configuration": "REGULAR",
+    "lat": 43.641529,
+    "lon": -79.386741,
+    "altitude": null,
+    "address": "Bremner Blvd / Rees St",
+    "cross_street": "Bremner Blvd / Rees St",
+    "capacity": 49,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "is_valet_station": false,
+    "groups": [
+     "South",
+     "Watefront"
+    ],
+    "obcn": "647-669-0947",
+    "short_name": "647-669-0947",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7019",
+    "external_id": "f8ab7671-e9c7-11ef-984e-124c66246c7d",
+    "name": "Temperance St Station",
+    "physical_configuration": "VAULT",
+    "lat": 43.650945,
+    "lon": -79.379498,
+    "altitude": null,
+    "address": "Temperance St. Station",
+    "post_code": "M5H 1Y6",
+    "capacity": 55,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "phone"
+    ],
+    "is_valet_station": false,
+    "groups": [
+     "Valet Stations",
+     "South",
+     "Financial District"
+    ],
+    "obcn": "9 Temperance St .",
+    "short_name": "9 Temperance St .",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7020",
+    "external_id": "f8ab796c-e9c7-11ef-984e-124c66246c7d",
+    "name": "Phoebe St / Spadina Ave",
+    "physical_configuration": "REGULAR",
+    "lat": 43.650033,
+    "lon": -79.396555,
+    "altitude": null,
+    "address": "Phoebe St / Spadina Ave",
+    "capacity": 33,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Fort York - Entertainment District"
+    ],
+    "obcn": "647-621-5766",
+    "short_name": "647-621-5766",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7021",
+    "external_id": "f8acb80a-e9c7-11ef-984e-124c66246c7d",
+    "name": "Bay St / Albert St",
+    "physical_configuration": "REGULAR",
+    "lat": 43.653264,
+    "lon": -79.382458,
+    "altitude": null,
+    "address": "Bay St / Albert St",
+    "capacity": 63,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "Financial District"
+    ],
+    "obcn": "647-643-9652",
+    "short_name": "647-643-9652",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   },
+   {
+    "station_id": "7023",
+    "external_id": "f8ad026d-e9c7-11ef-984e-124c66246c7d",
+    "name": "College St / Borden St",
+    "physical_configuration": "REGULAR",
+    "lat": 43.6571,
+    "lon": -79.4056,
+    "altitude": null,
+    "address": "College St / Borden St",
+    "capacity": 11,
+    "is_charging_station": false,
+    "rental_methods": [
+     "key",
+     "transitcard",
+     "creditcard",
+     "phone"
+    ],
+    "groups": [
+     "South",
+     "College St - Harbord St"
+    ],
+    "obcn": "647-643-9629",
+    "short_name": "647-643-9629",
+    "nearby_distance": 500.0,
+    "_ride_code_support": true,
+    "rental_uris": {}
+   }
+  ]
+ }
+}
